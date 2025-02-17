@@ -1,11 +1,6 @@
-# Unsupervised human-to-robot motion retargeting via expressive latent space
+# HPMPC: Robotic Imitation Learning via Hybrid Perception Model Predictive Control
 
 
-Webpage for "Unsupervised human-to-robot motion retargeting via expressive latent space"
-- Yashuai Yan
-- Esteve Valls Mascaro
-- Dongheui Lee
+Webpage for "HPMPC: Robotic Imitation Learning via Hybrid Perception Model Predictive Control"
 
-Autonomous Systems, TU Wien, 1040 Wien
-German Aerospace Center (DLR)
                 
